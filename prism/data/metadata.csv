@@ -1,0 +1,3 @@
+	index	ModifiedSequence	Charge	Fragmentation	MassAnalyzer	Length	Charge_pos	Length_pos	Fragmentation_HCD	Fragmentation_CID	MassAnalyzer_ITMS	MassAnalyzer_FTMS
+0	0	AKMLIVR	3	HCD	ITMS	7	0.42857142857142855	0.23333333333333334	1	0	1	0
+1	1	ILFWYK	2	CID	FTMS	6	0.2857142857142857	0.2	0	1	0	1
